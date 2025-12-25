@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Hallelujah",
+  "base_artist": "Pentatonix",
+  "createdAt": "2025-12-25T11:59:53.899815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Way of the Triune God (Hallelujah Version)",
+      "artist": "Tyler Childers",
+      "has_synced": true,
+      "path": "select/01_Way_of_the_Triune_God_(Hallelujah_Version)_Tyler_Childers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hallelujah",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/02_Hallelujah_Pras.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hallelujah",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/03_Hallelujah_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back To The Rivers Of Belief: Way To Eternity / Hallelujah / The Rivers Of Belief",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/04_Back_To_The_Rivers_Of_Belief__Way_To_Eternity___Hallelujah___The_Rivers_Of_Belie_Enigma.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back To The Rivers Of Belief - Way To Eternity\u0000Hallelujah\u0000The Rivers Of Belief",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/05_Back_To_The_Rivers_Of_Belief_-_Way_To_Eternity\u0000Hallelujah\u0000The_Rivers_Of_Belief_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hallelujah! It's Christmas",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/06_Hallelujah!_It's_Christmas_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hallelujah, It's Christmas \u0000 38 Special",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/07_Hallelujah,_It's_Christmas_\u0000_38_Special_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hallelujah Day",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/08_Hallelujah_Day_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sing Hallelujah!",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/09_Sing_Hallelujah!_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hallelujah Time",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/10_Hallelujah_Time_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hallelujah Time",
+      "artist": "The Wailers",
+      "has_synced": false,
+      "path": "select/11_Hallelujah_Time_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hallelujah (Acoustic)",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/12_Hallelujah_(Acoustic)_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hallelujah (Unplugged)",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/13_Hallelujah_(Unplugged)_Oh_Wonder.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hallelujah California",
+      "artist": "Luna Shadows",
+      "has_synced": true,
+      "path": "select/14_Hallelujah_California_Luna_Shadows.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hallelujah California",
+      "artist": "Luna Shadows",
+      "has_synced": false,
+      "path": "select/15_Hallelujah_California_Luna_Shadows.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hallelujah",
+      "artist": "Chief Keef",
+      "has_synced": false,
+      "path": "select/16_Hallelujah_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hallelujah",
+      "artist": "Gin Wigmore",
+      "has_synced": true,
+      "path": "select/17_Hallelujah_Gin_Wigmore.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hallelujah",
+      "artist": "Jeff Buckley",
+      "has_synced": true,
+      "path": "select/18_Hallelujah_Jeff_Buckley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hallelujah",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/pl_01_Hallelujah_Pentatonix.txt"
+    }
+  ]
+}
